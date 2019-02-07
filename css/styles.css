@@ -11,3 +11,8 @@ h2{
 body{
 background-color: greenyellow;
 }
+p{
+  font-family: cursive;
+  color: beige;
+  font-size: 50px;  
+}
