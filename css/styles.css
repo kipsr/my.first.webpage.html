@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    font-family: monospace;
+    font-size: 70px;
+}
+h2{
+    color:green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seriff;
+    font-size: 60px;
+}
+body{
+background-color: greenyellow;
+}
